@@ -8,7 +8,6 @@
 ## About the book
 
 One-shot learning can be seen as an attempt to create an approach to train machines with a similar ability to learn like humans.
-
 Hands-On One-Shot Learning with Python starts by explaining the fundamentals of One Shot learning and helps you understand the concept of learning to learn. You will delve into various algorithms, such as siamese, matching networks, memory augmented neural networks etc, by implementing them in Pytorch. As you make your way through the book, you will dive into state-of-the-art meta learning algorithms such as MAML, DAML, and LSTM Meta Learner. In the concluding chapters, you will work through recent trends in one shot learning such as adversarial meta learning, task agnostic meta learning, and meta imitation learning.
 
 By the end of this book, you will be familiar with state-of-the-art one shot learning algorithms and able to enable human-like cognition for your machine learning models.
