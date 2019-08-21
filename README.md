@@ -1,4 +1,6 @@
 # [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
+![BookCover](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png)
+
 
 
 ###  Learning to Learn using One-Shot Learning using Matching Networks, LSTM Meta Learner, Bayesian and more
