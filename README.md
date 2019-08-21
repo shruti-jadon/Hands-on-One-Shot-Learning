@@ -2,7 +2,7 @@
 
 <img src="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png" width="24" height="24>
 
-
+![smiley](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png){:height="36px" width="36px"}.
 
 ###  Learning to Learn using One-Shot Learning using Matching Networks, LSTM Meta Learner, Bayesian and more
 
