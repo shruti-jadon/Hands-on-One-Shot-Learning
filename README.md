@@ -13,7 +13,7 @@ By the end of this book, you will be familiar with state-of-the-art one shot lea
 <div>
   
 <a target="_blank" href="https://www.amazon.com/Hands-One-shot-Learning-Python-implementing-ebook/dp/B07S9QWNG2">
-  <img src="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png" alt="Amazon" >
+  <img src="" alt="Amazon" >
 </a>
 
 <a target="_blank" href="https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python">
