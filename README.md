@@ -1,15 +1,9 @@
 # [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
 
-
-![smiley](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png)
-
-<img src="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png" width="24" height="24>
-###  Learning to Learn using One-Shot Learning using Matching Networks, LSTM Meta Learner, Bayesian and more
-
-
-
 ## About the book
-
+<a target="_blank" href="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png">
+  <img src="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png" alt="Book Cover" width="250" align="left"/>
+</a>
 One-shot learning can be seen as an attempt to create an approach to train machines with a similar ability to learn like humans.
 Hands-On One-Shot Learning with Python starts by explaining the fundamentals of One Shot learning and helps you understand the concept of learning to learn. You will delve into various algorithms, such as siamese, matching networks, memory augmented neural networks etc, by implementing them in Pytorch. As you make your way through the book, you will dive into state-of-the-art meta learning algorithms such as MAML, DAML, and LSTM Meta Learner. In the concluding chapters, you will work through recent trends in one shot learning such as adversarial meta learning, task agnostic meta learning, and meta imitation learning.
 
