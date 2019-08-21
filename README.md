@@ -1,4 +1,4 @@
-# [Hands-On One-Shot Learning With Python]()
+# [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
 
 
 ###  Learning to Learn using One-Shot Learning using Matching Networks, LSTM Meta Learner, Bayesian and more
