@@ -1,7 +1,7 @@
 # [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
 
 
-### urated list of One Shot Learning papers, code, books, blogs, datasets and other resources
+### Curated list of One Shot Learning papers, code, books, blogs, datasets and other resources
 
 ## Papers 
 
