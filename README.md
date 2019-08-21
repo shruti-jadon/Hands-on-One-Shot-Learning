@@ -31,7 +31,7 @@ By the end of this book, you will be familiar with state-of-the-art one shot lea
 
 
 ### Awesome One Shot Learning  [![Awesome]
-Check the curated list of One Shot Learning papers, code, books, blogs, datasets and other resources [here.](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning) 
+Check the curated list of One Shot Learning papers, code, books, blogs, datasets and other resources [here.](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/supplementary) 
 
 ## Table of contents 
 
