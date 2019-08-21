@@ -20,14 +20,10 @@ By the end of this book, you will be familiar with state-of-the-art one shot lea
   <img src="./Images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
 </a>
 
-<a target="_blank" href="https://books.google.com/books/about/HANDS_ON_ONE_SHOT_LEARNING_WITH_PYTHON.html?id=mRfDxQEACAAJ">
-  <img src="./Images/googlebooks_logo.png" alt="Google Books" 
-</a>
 <br>
 </div>
 
 <br>
-
 
 
 ### Awesome One Shot Learning  [![Awesome]
