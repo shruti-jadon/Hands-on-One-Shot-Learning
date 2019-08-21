@@ -1,5 +1,5 @@
 # [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
-![BookCover](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png&s=200)
+![BookCover](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png?v=4&s=200)
 
 
 
