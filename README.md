@@ -31,27 +31,30 @@ Check the curated list of One Shot Learning papers, code, books, blogs, datasets
 
 ## Table of contents 
 
-### [1. Introduction to One Shot Learning]()
+### [1. Introduction to One Shot Learning](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch01-Introduction)
+* [1.1 K-Nearest Neighbor](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch01-Introduction/CodingExercise01.ipynb)
 
-### [2. Metrics Based Architectures]()
+### [2. Metrics Based Architectures](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch02-MetricsBasedMethods)
 
-* [2.1. Siamese Networks?]()
-* [2.4. Matching Networks]()
+* [2.1. Siamese Networks](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch02-MetricsBasedMethods/SiameseNetwork.ipynb)
+* [2.4. Matching Networks](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch02-MetricsBasedMethods/Matching%20Networks.ipynb)
 
-### [3. Models Based Architectures]()
+### [3. Models Based Architectures](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch04-ModelsBasedMethods)
 
-* [3.1. Memory Augmented Neural Networks]()
-* [3.2. Meta Networks]()
+* [3.1. Neural Turing Machines](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch04-ModelsBasedMethods/NTM%20tutorial.ipynb)
+* [3.2. Memory Augmented Neural Networks](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch04-ModelsBasedMethods/MANN.ipynb)
 
 
-### [4. Optimization Based Architectures]()
+### [4. Optimization Based Architectures](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch03-OptimizationBasedMethods)
 
-* [4.1. Model Agnostic Meta Learning]()
-* [4.2. LSTM Meta Learner]()
+* [4.1. Model Agnostic Meta Learning](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch03-OptimizationBasedMethods/Model%20Agnostic%20Meta%20Learning%20(Omniglot%20Dataset).ipynb)
+* [4.2. LSTM Meta Learner](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch03-OptimizationBasedMethods/LSTM-MetaLearner.ipynb)
+* [4.3. Domain Adaptive Meta Learning](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch03-OptimizationBasedMethods/Domain-Adaption-Meta-Learning(Sine%20Curve%20Dataset).ipynb)
 
-### [5. Bayesian Based Methods]()
 
-* [5.1. Bayesian program Learning]()
+### [5. Probability Based Methods](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch05-ProbabilityBasedMethods)
+
+* [5.1. Bayesian program Learning](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch05-ProbabilityBasedMethods/BayesianProgramLearning.ipynb)
 
 
 ### [6. Conclusions and other approaches](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch06-ConclusionsAndOtherApproaches)
