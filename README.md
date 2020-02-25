@@ -54,6 +54,6 @@ Check the curated list of One Shot Learning papers, code, books, blogs, datasets
 * [5.1. Bayesian program Learning]()
 
 
-### [6. Conclusions and other approaches]()
+### [6. Conclusions and other approaches](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/tree/master/Ch06-ConclusionsAndOtherApproaches)
 
-* [6.1. Future Possibilities]()
+* [6.1. Future Possibilities](https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/Ch06-ConclusionsAndOtherApproaches/Conclusion.ipynb)
