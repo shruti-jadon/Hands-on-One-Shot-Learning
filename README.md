@@ -1,4 +1,4 @@
-# [WIP: Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
+# [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
 
 ## About the book
 <a target="_blank" href="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png">
