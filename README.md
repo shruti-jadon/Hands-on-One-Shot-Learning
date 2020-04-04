@@ -9,6 +9,7 @@ Hands-On One-Shot Learning with Python starts by explaining the fundamentals of 
 
 By the end of this book, you will be familiar with state-of-the-art one shot learning algorithms and able to enable human-like cognition for your machine learning models.
 
+
 ## Get the book 
 <div>
 <a target="_blank" href="https://www.amazon.com/Hands-One-shot-Learning-Python-implementing-ebook/dp/B07S9QWNG2">
