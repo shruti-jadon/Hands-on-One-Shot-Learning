@@ -1,5 +1,6 @@
 # [Hands-On One-Shot Learning With Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-one-shot-learning-python)
 <a class="ba-award" href="https://bookauthority.org/books/new-pytorch-books?t=4ypt3g&s=award&book=1838825460" target="_blank" style="margin:20px; outline:0"><img src="https://award.bookauthority.org/new-pytorch-books.png?b=1838825460&c=1&v=6&w=150" style="width:150px; height:137px; border:0" alt="BookAuthority Best New PyTorch Books"/></a>
+"One of the best new PyTorch books" - BookAuthority
 
 ## About the book
 <a target="_blank" href="https://github.com/shruti-jadon/Hands-on-One-Shot-Learning/blob/master/supplementary/images/cover_b14472.png">
