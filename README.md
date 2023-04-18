@@ -39,10 +39,13 @@ If you find our code useful, please consider citing our work using the bibtex:
   year={2019},
   publisher={PACKT PUBLISHING LIMITED}
 }
-@inproceedings{Jadon2020AnOO,
-  title={An Overview of Deep Learning Architectures in Few-Shots Learning Domain},
-  author={Shruti Jadon},
-  year={2020}
+@misc{jadon2020overview,
+    title={An Overview of Deep Learning Architectures in Few-Shot Learning Domain},
+    author={Shruti Jadon and Aryan Jadon},
+    year={2020},
+    eprint={2008.06365},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
 
